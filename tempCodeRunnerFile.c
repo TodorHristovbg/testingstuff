@@ -1,0 +1,1 @@
+printf("%s %d\n",table[3624]->value,table[3624]->numb);
